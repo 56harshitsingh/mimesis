@@ -23,7 +23,7 @@
 </a>
 <a href="https://pypi.org/project/mimesis/" target="_blank">
     <img src="https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13%20%7C%20pypy-brightgreen" alt="Supported Python versions">
-</a>
+</e>
 </p>
 
 ---
